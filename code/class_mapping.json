@@ -1,0 +1,7 @@
+{
+  "AVAILABLE": 0,
+  "CENSORED": 1,
+  "DECEASED": 2,
+  "ELIGIBLE": 3,
+  "INELIGIBLE": 4
+}
