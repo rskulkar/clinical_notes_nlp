@@ -1,13 +1,13 @@
 {
-  "model_type": "BERT-Base Fine-tuned",
+  "model_type": "ClinicalBERT Fine-tuned",
   "hardware": "Apple M1 8GB",
-  "training_time_hours": 0.150414669447475,
+  "training_time_hours": 0.20408729447258844,
   "test_accuracy": 0.96,
   "test_weighted_f1": 0.9601928897581069,
   "test_macro_f1": 0.9593994724429507,
-  "val_accuracy": 0.96,
-  "val_weighted_f1": 0.9602290490625591,
-  "training_loss": 4.0790244593764795,
+  "val_accuracy": 0.9666666666666667,
+  "val_weighted_f1": 0.966607193323762,
+  "training_loss": 4.0572802803733135,
   "hyperparameters": {
     "batch_size": 4,
     "gradient_accumulation_steps": 4,

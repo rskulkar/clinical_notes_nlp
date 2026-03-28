@@ -1,0 +1,109 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model weights and large binaries (CRITICAL for ML)
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.h5
+checkpoints/
+models/
+*.ckpt
+
+# Datasets and caches
+data/
+dataset/
+*.csv  # Or specify large ones
+train*
+val*
+*.pkl
+*.joblib
+
+# Logs and outputs
+logs/
+*.log
+tensorboard/
+runs/
+lightning_logs/
+wandb/
+mlruns/
+
+# Environment
+.env
+.venv/
+env/
+ENV/
+requirements.txt.lock  # If using
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# IDE/OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~
+
+# Build/dist
+build/
+dist/
+*.egg-info/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model weights and large binaries (CRITICAL for ML)
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.h5
+checkpoints/
+models/
+*.ckpt
+
+# Datasets and caches
+data/
+dataset/
+*.csv  # Or specify large ones
+train*
+val*
+*.pkl
+*.joblib
+
+# Logs and outputs
+logs/
+*.log
+tensorboard/
+runs/
+lightning_logs/
+wandb/
+mlruns/
+
+# Environment
+.env
+.venv/
+env/
+ENV/
+requirements.txt.lock  # If using
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# IDE/OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
